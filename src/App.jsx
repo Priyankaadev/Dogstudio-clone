@@ -121,7 +121,33 @@ function App() {
             </div>
           </div>
         </section>
-        <section id="section-3"></section>
+        <section id="section-3">
+          <div className="top">
+            <div className="left">
+              <h3>Lorem ipsum dolor <br /> sit amet <br/>consectetur adipisicing<br/>
+                 elit. Ducimus alias  </h3>
+            </div>
+            <div className="right"></div>
+          
+          </div>
+
+        </section>
+        <section id="section-4">
+         <div className="bottom">
+<div className="left">
+  
+</div>
+<div className="right">
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos expedita voluptate fugiat error consectetur quisquam amet magni sint. Eveniet dolorum mollitia rem. Exercitationem, veniam deserunt. Voluptate, nemo. Laborum, consectetur suscipit.
+Qui aspernatur reprehenderit provident dolores repellat tempore quidem officia. Alias libero sunt animi tempora impedit officia ab facilis facere labore magni! Rerum natus quam ex expedita animi aliquid nihil accusantium!</p>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos expedita voluptate fugiat error consectetur quisquam amet magni sint. Eveniet dolorum mollitia rem. Exercitationem, veniam deserunt. Voluptate, nemo. Laborum, consectetur suscipit.
+Qui aspernatur reprehenderit provident dolores repellat tempore quidem officia. Alias libero sunt animi tempora impedit officia ab facilis facere labore magni! Rerum natus quam ex expedita animi aliquid nihil accusantium!</p>
+</div>
+<div>
+
+</div>
+         </div>
+        </section>
       </main>
     </>
   );
